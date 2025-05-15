@@ -1,5 +1,3 @@
-This repository contains code for genomic analysis with a focus on cell type identification, gene signatures, pathway analysis, and in silico perturbation.
-
 * **Fig. 1:** Visualization of specific cell types with Genovis and Genomap
   * [Fig.1_Genomap.py](./Fig.1_Genomap.py)
   * [Fig.1_GenoVis.py](./Fig.1_GenoVis.py)
